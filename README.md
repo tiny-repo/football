@@ -20,7 +20,7 @@ Useful links:
 For non-public matters that you'd like to discuss directly with the GRF team,
 please use google-research-football@google.com.
 
-We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
+We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game. Danke.
 
 
 ## Quick Start
